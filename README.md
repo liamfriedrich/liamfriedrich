@@ -26,7 +26,7 @@
 
 - 🌱 Currently learning **Rust, Reversing, ...**
 
-- 📫 Reach me via **gh@jehov4.dev**
+- 📫 Reach me via **[info@liamfriedrich.de](mailto:info@liamfriedrich.de)**
 
 - 🤸 Some hobbies **Volleyball🏐, Cycling🚴, ...**
 
