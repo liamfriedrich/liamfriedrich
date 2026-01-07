@@ -5,7 +5,7 @@
 
 <h3 align="center">Current working Stack:</h3>
 <p align="center"> 
-  <a href="https://codeberg.org/" target="_blank" rel="noreferrer"> <img src="hhttps://design.codeberg.org/logo-kit/icon_inverted.svg" alt="codeberg" width="40" height="40"/> </a>
+  <a href="https://codeberg.org/" target="_blank" rel="noreferrer"> <img src="https://design.codeberg.org/logo-kit/icon_inverted.svg" alt="codeberg" width="40" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://vscodium.com/" target="_blank" rel="noreferrer"> <img src="https://vscodium.com/img/codium_cnl.svg" alt="vscodium" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
